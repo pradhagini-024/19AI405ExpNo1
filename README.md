@@ -92,5 +92,6 @@ for step in range(8):
     print(f"Step {step+1}: Action={action} -> {env.status()}")
 print("\nFinal Score:", env.performance)
 ```
+<h3>Output</h3>
 
-ouput<img width="1920" height="757" alt="EXP1AI OP" src="https://github.com/user-attachments/assets/bd94ac4f-3f93-4ab3-81e1-5d7dfa1647b9" />
+<img width="1920" height="757" alt="EXP1AI OP" src="https://github.com/user-attachments/assets/bd94ac4f-3f93-4ab3-81e1-5d7dfa1647b9" />
